@@ -23,8 +23,8 @@ Below are two example entries from the dataset. Each entry consists of the revie
 3. utils.py contains utility functions that the course staff implemented.
 4. test.py is a script which runs tests on a few of the methods I implemented also written by course staff.
 
-## Functions and algorithms implemented by me
-1. [hinge_loss_single](https://github.com/tkayalvizhi/automatic_review_analyzer/blob/454187ac153c56298523b1f5dff693c4c1356852/project1.py#L20)
+## Functions and algorithms implemented by me (in [project1.py](https://github.com/tkayalvizhi/automatic_review_analyzer/blob/454187ac153c56298523b1f5dff693c4c1356852/project1.py))
+1. hinge_loss_single
 2. hinge_loss_full
 3. perceptron_single_step_update
 4. perceptron
