@@ -18,13 +18,13 @@ Below are two example entries from the dataset. Each entry consists of the revie
 |YUMMY! You would never guess that they're sugar-free and it's so great that you can eat them pretty much guilt free! i was so impressed that i've ordered some for myself (w dark chocolate) to take to the office. These are just EXCELLENT!|+1|
 
 ## Setup Details
-1. project1.py contains various functions that I will use to implement learning algorithms.
+1. [project1.py](https://github.com/tkayalvizhi/automatic_review_analyzer/blob/454187ac153c56298523b1f5dff693c4c1356852/project1.py) contains various functions that I will use to implement learning algorithms.
 2. main.py is a script where these functions are called and to run experiments.
 3. utils.py contains utility functions that the course staff implemented.
 4. test.py is a script which runs tests on a few of the methods I implemented also written by course staff.
 
 ## Functions and algorithms implemented by me
-1. hinge_loss_single
+1. [hinge_loss_single](https://github.com/tkayalvizhi/automatic_review_analyzer/blob/454187ac153c56298523b1f5dff693c4c1356852/project1.py#L20)
 2. hinge_loss_full
 3. perceptron_single_step_update
 4. perceptron
